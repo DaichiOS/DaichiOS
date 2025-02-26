@@ -1,4 +1,4 @@
-# Hi there, I'm ![Daichi](https://zenge-portfolio.vercel.app/) 👋
+# Hi there, I'm [Daichi](https://zenge-portfolio.vercel.app/) 👋
 
 ## Full Stack Developer | Blockchain ₿ & AI Enthusiast | Loves ants 🐜
 

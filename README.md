@@ -56,8 +56,8 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 ### 📈 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BinaryPogs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryPogs&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaichiOS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---

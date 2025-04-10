@@ -82,15 +82,6 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-
-
----
-
-### 🏆 GitHub Achievements
-You can view my Holopin badges on my profile: [holopin.io/@daichios](https://holopin.io/@daichios)
-
----
-
 ### 🎮 Fun Facts
 - Loves fishin'
 - Trains Muay Thai

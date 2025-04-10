@@ -1,6 +1,6 @@
 # Hi there, I'm [Daichi](https://zenge-portfolio.vercel.app/) 👋
 
-## Full Stack Developer | Blockchain ₿ & AI Enthusiast | Loves ants 🐜
+## Full Stack Developer | **B**lockchain & AI Enthusiast | Loves ants 🐜
 
 Passionate about building and exploring technologies. With a background in distributed systems, I am particularly interested in the innovation of blockchain tech and how we've built a trustless system of exchange.
 Also passionate about AI and the augmentation of people's lives and workflows that it provides. 
@@ -9,14 +9,13 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 
 ### 🔭 Currently Working On
-- Applying for jobs
-- Improving my portfolio with new projects
-- Clawing myself out of this hole I've put myself in
+- [index.fun](https://index.fun/)
 
-### 🌱 Currently Learning
+### 🌱 Currently Stack im working with
 - Next.js and Typescript
-- Systems design and architecture
-- Blockchain development on Move
+- Solidity
+- Supabase
+- TRUF Network
 
 ### 💼 Technical Skills
 
@@ -34,11 +33,14 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Backend & Database
+#### Backend, Database & Blockchain
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Base](https://img.shields.io/badge/-Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![TRUF Network](https://img.shields.io/badge/-TRUF_Network-00D395?style=flat-square&logo=blockchain&logoColor=white)
 
 #### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -48,25 +50,34 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 #### Tools & Other
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaichiOS&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DaichiOS&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  
+  <!-- GitHub Top Languages -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaichiOS&theme=radical&hide_border=true" />
+  
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DaichiOS&theme=radical&column=7&no-frame=true" />
 </div>
 
 ---
 
 ### 🎮 Fun Facts
 - Loves fishin'
-- Trains Muay Thai.. HAIIIYAH!
+- Trains Muay Thai
 - Loves 2 BBQ
-- AI & Blockchain Enthusiast ₿
+- AI & Blockchain Enthusiast
 - Ant enthusiast 🐜
 
 ---

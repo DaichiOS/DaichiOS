@@ -7,15 +7,16 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-
 ### 🔭 Currently Working On
 - [index.fun](https://index.fun/)
 
-### 🌱 Currently Stack im working with
-- Next.js and Typescript
+### 🌱 Current Tech Stack
+- Next.js and TypeScript
 - Solidity
 - Supabase
 - TRUF Network
+
+---
 
 ### 💼 Technical Skills
 
@@ -33,11 +34,13 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Backend, Database & Blockchain
+#### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+#### Blockchain
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Base](https://img.shields.io/badge/-Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
 ![TRUF Network](https://img.shields.io/badge/-TRUF_Network-00D395?style=flat-square&logo=blockchain&logoColor=white)
@@ -54,22 +57,34 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DaichiOS&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-  
-  <!-- GitHub Top Languages -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaichiOS&theme=radical&hide_border=true" />
-  
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DaichiOS&theme=radical&column=7&no-frame=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaichiOS&theme=radical" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaichiOS&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaichiOS&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaichiOS&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaichiOS&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaichiOS&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaichiOS&theme=radical&column=4&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+[![An image of @daichios's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daichios)](https://holopin.io/@daichios)
 
 ---
 
@@ -82,11 +97,17 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-### 📫 How to Reach Me
-- Email: [eddie.zeng95@gmail.com](mailto:eddie.zeng95@gmail.com)
-- LinkedIn: [Eddie Zeng](https://www.linkedin.com/in/eddie-zeng-951066200/)
-- Twitter: [@DaichiBP](https://x.com/DaichiBP)
+### 📫 Connect With Me
+<div align="center">
+  <a href="mailto:eddie.zeng95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eddie-zeng-951066200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/DaichiBP"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
 
 ---
 
-⭐️ From [DaichiOS](https://github.com/DaichiOS)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaichiOS&style=flat-square&color=blueviolet" alt="Profile views"/>
+  
+  ⭐️ From [DaichiOS](https://github.com/DaichiOS)
+</div>

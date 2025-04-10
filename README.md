@@ -18,6 +18,31 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <a href="https://github.com/DaichiOS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaichiOS&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DaichiOS">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaichiOS&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DaichiOS">
+    <img src="https://github-profile-trophy.vercel.app/?username=DaichiOS&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ### 💼 Technical Skills
 
 #### Languages
@@ -57,34 +82,12 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-## 📊 GitHub Stats & Achievements
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaichiOS&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaichiOS&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaichiOS&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaichiOS&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaichiOS&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaichiOS&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaichiOS&theme=radical&column=4&margin-w=15&margin-h=15" />
-</div>
 
 ---
 
 ### 🏆 GitHub Achievements
-[![An image of @daichios's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daichios)](https://holopin.io/@daichios)
+You can view my Holopin badges on my profile: [holopin.io/@daichios](https://holopin.io/@daichios)
 
 ---
 

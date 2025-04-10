@@ -7,9 +7,6 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-### 🔭 Currently Working On
-- [index.fun](https://index.fun/)
-
 ### 🌱 Current Tech Stack
 - Next.js and TypeScript
 - Solidity

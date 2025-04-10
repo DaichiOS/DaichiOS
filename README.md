@@ -21,21 +21,34 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
+  <!-- Profile Summary Card -->
   <a href="https://github.com/DaichiOS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaichiOS&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaichiOS&theme=radical" />
   </a>
 </div>
 
 <div align="center">
+  <!-- GitHub Stats -->
   <a href="https://github.com/DaichiOS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaichiOS&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaichiOS&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
+  </a>
+  <!-- Top Languages by Repo -->
+  <a href="https://github.com/DaichiOS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   </a>
 </div>
 
 <div align="center">
+  <!-- Achievement Trophies -->
   <a href="https://github.com/DaichiOS">
     <img src="https://github-profile-trophy.vercel.app/?username=DaichiOS&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
+  </a>
+</div>
+
+<!-- GitHub Streak Stats - Reliable Alternative URL -->
+<div align="center">
+  <a href="https://github.com/DaichiOS">
+    <img src="https://streak-stats.demolab.com/?user=DaichiOS&theme=radical&hide_border=true" />
   </a>
 </div>
 

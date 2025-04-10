@@ -32,25 +32,12 @@ Also passionate about AI and the augmentation of people's lives and workflows th
   <a href="https://github.com/DaichiOS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaichiOS&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
   </a>
-  <!-- Top Languages by Repo -->
+  <!-- Top Languages by Repo (Excluding HTML and Jupyter) -->
   <a href="https://github.com/DaichiOS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiOS&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook,html" />
   </a>
 </div>
-
-<div align="center">
-  <!-- Achievement Trophies -->
-  <a href="https://github.com/DaichiOS">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaichiOS&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
-  </a>
-</div>
-
-<!-- GitHub Streak Stats - Reliable Alternative URL -->
-<div align="center">
-  <a href="https://github.com/DaichiOS">
-    <img src="https://streak-stats.demolab.com/?user=DaichiOS&theme=radical&hide_border=true" />
-  </a>
-</div>
+  
 
 <br/>
 

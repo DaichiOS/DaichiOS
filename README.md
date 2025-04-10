@@ -1,6 +1,6 @@
 # Hi there, I'm [Daichi](https://zenge-portfolio.vercel.app/) 👋
 
-## Full Stack Developer | **B**lockchain & AI Enthusiast | Loves ants 🐜
+## Full Stack Blockchain Developer
 
 Passionate about building and exploring technologies. With a background in distributed systems, I am particularly interested in the innovation of blockchain tech and how we've built a trustless system of exchange.
 Also passionate about AI and the augmentation of people's lives and workflows that it provides. 

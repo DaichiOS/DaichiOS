@@ -9,6 +9,7 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ### 🌱 Current Tech Stack
 - Next.js and TypeScript
+- Golang
 - Solidity
 - Supabase
 - TRUF Network

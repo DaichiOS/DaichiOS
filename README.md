@@ -12,6 +12,7 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 - Golang
 - Solidity
 - Supabase
+- AWS
 - TRUF Network
 
 ---

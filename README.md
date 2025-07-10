@@ -81,15 +81,6 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-### 🎮 Fun Facts
-- Loves fishin'
-- Trains Muay Thai
-- Loves 2 BBQ
-- AI & Blockchain Enthusiast
-- Ant enthusiast 🐜
-
----
-
 ### 📫 Connect With Me
 <div align="center">
   <a href="mailto:eddie.zeng95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

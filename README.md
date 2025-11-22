@@ -7,7 +7,7 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-### 🌱 Current Tech Stack
+### Current Tech Stack
 - Next.js and TypeScript
 - Golang
 - Solidity
@@ -17,7 +17,7 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
   <!-- Profile Summary Card -->
@@ -42,7 +42,7 @@ Also passionate about AI and the augmentation of people's lives and workflows th
 
 ---
 
-### 💼 Technical Skills
+### Technical Skills
 
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
